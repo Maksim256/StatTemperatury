@@ -1,0 +1,2 @@
+# StatTemperatury
+Statystyki temperatur
