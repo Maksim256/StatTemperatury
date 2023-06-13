@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatTemperatury", "StatTemperatury.csproj", "{55266FE1-B07D-48A2-BA63-BF20CC641A24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatTemperatury", "StatTemperatury.csproj", "{55266FE1-B07D-48A2-BA63-BF20CC641A24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatTemperaturyTest", "..\StatTemperaturyTest\StatTemperaturyTest.csproj", "{EEA35C0D-32C9-4EA1-875F-0429B9D16912}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{55266FE1-B07D-48A2-BA63-BF20CC641A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55266FE1-B07D-48A2-BA63-BF20CC641A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55266FE1-B07D-48A2-BA63-BF20CC641A24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA35C0D-32C9-4EA1-875F-0429B9D16912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA35C0D-32C9-4EA1-875F-0429B9D16912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA35C0D-32C9-4EA1-875F-0429B9D16912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA35C0D-32C9-4EA1-875F-0429B9D16912}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

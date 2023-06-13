@@ -16,7 +16,7 @@ namespace StatTemperatury
         void AddTemp(int temp);
         void AddTemp(string temp);
         void skala (string temp);
-      //  event TempAddedDelegate TempAdded;
+    //    event TempAddedDelegate TempAdded;
 
         Statistics GetStatistics();
     }
